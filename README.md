@@ -8,7 +8,7 @@ I learned Kotlin and make a Android App using Kotlin.
 
 ## Learned
 
-I learned how to run nodes on the Corda network, Kotlin syntax and a bit of Android
+I learned how to run nodes on the Corda network, Kotlin syntax and a bit of Android. I learned a little about xml.
 
 
 ## What didn't Work
